@@ -1,4 +1,4 @@
-// este plugin es para usar el patron de diseño MVC en astro
+# PLESE NOTE: Fork this repo to let me know you are interested in this project. I will be happy to help you get started.
 
 # Astro MVC Plugin
 
