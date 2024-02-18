@@ -29,7 +29,7 @@ npm run dev
 ## Roadmap
 
 - [x] Add support for views (Astro already has this)
-- [ ] Add support for controllers
+- [x] Add support for controllers
 - [ ] Add support for models
 - [ ] Add cli commands to generate controllers and models
 
